@@ -13,7 +13,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do Bootcamp CAIXA - Inteligência Artificial na Prática na plataforma DIO. Nele, utilizei dois prompts que atuaram como agentes especializados em orientação profissional. O objetivo foi simular interações que ajudassem a explorar diferentes caminhos dentro da área de tecnologia, identificar afinidades pessoais e construir um plano estruturado de transição de carreira.
+Este projeto foi desenvolvido como parte do Bootcamp CAIXA - Inteligência Artificial na Prática na plataforma DIO. Nele, utilizei dois prompts que atuaram como agentes especializados em orientação profissional de carreiras tech. O objetivo foi simular interações que ajudassem a explorar diferentes caminhos dentro da área de tecnologia, identificar afinidades pessoais e construir um plano estruturado de transição de carreira.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
